@@ -4,7 +4,7 @@
 graph TD
     A[1. Research Design & Approach] --> B(1.1. Data Collection);
     B --> C{Survey Design};
-    B --> D{Sampling Method \(Convenience\)};
+    B --> D{Sampling Method &#40;Convenience&#41;};
     B --> E{Sample Size ([Number])};
     B --> F{Variables (Speed, Communication, Quality, Complexity)};
 
